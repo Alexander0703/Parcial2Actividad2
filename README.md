@@ -39,16 +39,15 @@ php -S localhost:8000
 
 📁 Estructura del Proyecto
 Parcial2Actividad2/
-├── index.html          # Página principal
-├── catalogo.html       # Catálogo de libros
-├── registro.html       # Formulario de registro
-├── contacto.html       # Información de contacto
-├── style.css           # Estilos principales (tema oscuro rojo/negro)
-├── biblioteca.jpg      # Imagen de la biblioteca
-├── mapa.jpeg           # Mapa de ubicación
-└── README.md           # Este archivo
-
-
+Parcial2Actividad2/
+- index.html        # Página principal
+- catalogo.html     # Catálogo de libros
+- registro.html     # Formulario de registro
+- contacto.html     # Información de contacto
+- style.css         # Estilos principales (tema oscuro rojo/negro)
+- biblioteca.jpg    # Imagen de la biblioteca
+- mapa.jpeg         # Mapa de ubicación
+- README.md         # Este archivo         
 
 🖥️ Páginas y Funcionalidades
 index.html
