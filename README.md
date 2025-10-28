@@ -39,7 +39,6 @@ php -S localhost:8000
 
 📁 Estructura del Proyecto
 Parcial2Actividad2/
-Parcial2Actividad2/
 - index.html        # Página principal
 - catalogo.html     # Catálogo de libros
 - registro.html     # Formulario de registro
